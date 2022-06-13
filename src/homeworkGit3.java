@@ -4,6 +4,7 @@ public class homeworkGit3 {
             hello("Tome");
             goodbye("Tome");
             saySomething();
+            System.out.println("Adding changes");
         }
 
         public static void hello(String name){
