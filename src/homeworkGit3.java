@@ -5,6 +5,7 @@ public class homeworkGit3 {
             goodbye("Tome");
             saySomething();
             System.out.println("Adding changes");
+            System.out.println("Adding changes2");
         }
 
         public static void hello(String name){
