@@ -3,6 +3,7 @@ public class homeworkGit3 {
         public static void main(String[] args) {
             hello("Tome");
             goodbye("Tome");
+            saySomething();
         }
 
         public static void hello(String name){
@@ -10,6 +11,9 @@ public class homeworkGit3 {
         }
         public static void goodbye(String name){
             System.out.println("Goodbye " + name);
+        }
+        public static void saySomething(){
+            System.out.println("Hello");
         }
     }
 }
